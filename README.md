@@ -1,6 +1,6 @@
 # Simulations
 Simple Physics Simulations using PyMunk and Pygame
 # Dependency:
-*PyMunk
-*Pygame
-*Python
+* PyMunk
+* Pygame
+* Python
